@@ -26,6 +26,7 @@ public class ImageViewer
     private JLabel filenameLabel;
     private JLabel statusLabel;
     private OFImage currentImage;
+    //test
     
     /**
      * Create an ImageViewer show it on screen.
